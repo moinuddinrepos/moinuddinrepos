@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinuddinrepos&label=Profile%20views&color=0e75b6&style=flat" alt="moinuddinrepos" /> </p>
 
-- 🔭 I’m currently working on [LMS Project](N/A)
+- 🔭 I’m currently working on [😊](N/A)
 
 - 🌱 I’m currently learning **Oracle BRM, OCI, ReactJS**
 
